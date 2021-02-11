@@ -1,0 +1,4 @@
+runtime: nodejs12
+env_variables:
+  STORAGE_BUCKET: csc847project3
+  FIRESTORE_COLLECTION: pictures
